@@ -7,3 +7,4 @@
 	+ uploaden interactieve wireframes InVision datum 6/10 - 10/10 
 	+ eerste zicht: platform InVision
 
+11/11 Invision section afwerken: board en freehand gedeelte + de bijhorende demo's maken + pros & cons

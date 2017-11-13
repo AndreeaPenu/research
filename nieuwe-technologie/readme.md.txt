@@ -14,5 +14,9 @@
 				https://facebook.github.io/react-native/docs/using-a-listview.html : flatlist & sectionlist
 				https://facebook.github.io/react-native/docs/network.html : netwerk, api,...
 
-12/11 				https://www.youtube.com/watch?v=KRLLjlpy0r4 : Android SDK & AVD Setup For React Native				
-next				https://www.youtube.com/watch?v=mkualZPRZCs : React Native Crash Course
+12/11 				https://www.youtube.com/watch?v=KRLLjlpy0r4 : Android SDK & AVD Setup For React Native	
+				Android emulator proberen te doen werken
+
+13/11				https://www.youtube.com/watch?v=KRLLjlpy0r4 : Android SDK & AVD Setup For React Native -> deze manier werkt niet, kan android emulator niet opstarten
+				https://www.eduonix.com/dashboard/learn-to-build-mobile-apps-with-react-native 1-4			
+				https://www.youtube.com/watch?v=mkualZPRZCs : React Native Crash Course -> op eigen android weergeven ipv emulator

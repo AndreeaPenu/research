@@ -22,4 +22,4 @@
 				https://www.youtube.com/watch?v=mkualZPRZCs : React Native Crash Course -> op eigen android weergeven ipv emulator : props, state, debug, styling, flexbox
 
 14/11				https://www.youtube.com/watch?v=mkualZPRZCs : React Native Crash Course : touchable highlight & opacity, textinput, switch, listview + json, navigator
-				https://www.eduonix.com/dashboard/learn-to-build-mobile-apps-with-react-native 4-13 : textinput, slider, switch
+				https://www.eduonix.com/dashboard/learn-to-build-mobile-apps-with-react-native 4-17 : textinput, slider, picker, switch, flex, touchable, button, scrollView

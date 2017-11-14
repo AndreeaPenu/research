@@ -19,6 +19,7 @@
 
 13/11				https://www.youtube.com/watch?v=KRLLjlpy0r4 : Android SDK & AVD Setup For React Native -> deze manier werkt niet, kan android emulator niet opstarten
 				https://www.eduonix.com/dashboard/learn-to-build-mobile-apps-with-react-native 1-4			
-				https://www.youtube.com/watch?v=mkualZPRZCs : React Native Crash Course -> op eigen android weergeven ipv emulator
+				https://www.youtube.com/watch?v=mkualZPRZCs : React Native Crash Course -> op eigen android weergeven ipv emulator : props, state, debug, styling, flexbox
 
-14/11				https://www.youtube.com/watch?v=mkualZPRZCs : React Native Crash Course
+14/11				https://www.youtube.com/watch?v=mkualZPRZCs : React Native Crash Course : touchable highlight & opacity, textinput, switch, listview + json, navigator
+				https://www.eduonix.com/dashboard/learn-to-build-mobile-apps-with-react-native 4-13 : textinput, slider, switch

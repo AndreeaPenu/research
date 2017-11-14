@@ -1,21 +1,33 @@
 import React from 'react';
-import { AppRegistry, StyleSheet, Text,View } from 'react-native';
+import { AppRegistry, StyleSheet, Text,View,TouchableHighlight, TouchableOpacity } from 'react-native';
 
 export default class Component2 extends React.Component {
+    onPress(){
+        console.log('Area Pressed');
+    }
+
+    onPress2(){
+        console.log('Area2 Pressed');
+    }
+
+
     render() {
         return (
-            <View>
-                <View style={styles.container}>
-                    <View style={styles.v1}>
-                        <Text>Vieuw1</Text>
-                    </View>
-                    <View style={styles.v2}>
-                        <Text>Vieuw2</Text>
-                    </View>
-                    <View style={styles.v3}>
-                        <Text>Vieuw3</Text>
-                    </View>
 
+            <View style={styles.container}>
+                <TouchableHighlight style={styles.v1} onPress={this.onPress} underlayColor="blue">
+                    <View >
+                        <Text>First</Text>
+                    </View>
+                </TouchableHighlight>
+
+                <TouchableOpacity style={styles.v2} onPress={this.onPress2}>
+                    <View >
+                        <Text>Second</Text>
+                    </View>
+                </TouchableOpacity>
+                <View style={styles.v3}>
+                    <Text style={styles.vText}>Third</Text>
                 </View>
             </View>
 
@@ -25,24 +37,29 @@ export default class Component2 extends React.Component {
 
 AppRegistry.registerComponent('Component2',() => Component2);
 
+
 const styles = StyleSheet.create({
-    container:{
+    container: {
         flexDirection:'row',
         height:100
     },
-    v1:{
+    v1: {
         flex:1,
         backgroundColor:'red',
         padding:10
     },
-    v2:{
-        flex:1,
-        backgroundColor:'green',
-        padding:10
-    },
-    v3:{
+    v2: {
         flex:1,
         backgroundColor:'yellow',
         padding:10
+    },
+    v3: {
+        flex:1,
+        backgroundColor:'black',
+        padding:10
+    },
+    vText: {
+        color:'white'
     }
+
 });

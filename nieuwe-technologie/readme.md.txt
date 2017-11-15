@@ -22,4 +22,10 @@
 				https://www.youtube.com/watch?v=mkualZPRZCs : React Native Crash Course -> op eigen android weergeven ipv emulator : props, state, debug, styling, flexbox
 
 14/11				https://www.youtube.com/watch?v=mkualZPRZCs : React Native Crash Course : touchable highlight & opacity, textinput, switch, listview + json, navigator
-				https://www.eduonix.com/dashboard/learn-to-build-mobile-apps-with-react-native 4-17 : textinput, slider, picker, switch, flex, touchable, button, scrollView
+				https://www.eduonix.com/dashboard/learn-to-build-mobile-apps-with-react-native 4-21 : textinput, slider, picker, switch, flex, touchable, button, scrollView
+
+15/11				https://www.eduonix.com/dashboard/learn-to-build-mobile-apps-with-react-native 22-32 : statusbar, toolbarAndroid, vector icons, listView, fetch, navigator, 
+														       asyncstorage, cameraroll, activityindicator, geolocation, 
+														       set&get from clipboard, share
+
+next				https://www.eduonix.com/dashboard/learn-to-build-mobile-apps-with-react-native 33-41 : React Native Todo App

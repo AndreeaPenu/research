@@ -12,7 +12,7 @@ export default class ScrollViewComponent extends React.Component {
     render() {
         return (
             <View>
-                <Button title="Scroll" onPress={()=>{_scrollView.scrollTo({y:400})}}/>
+                    <Button title="Scroll" onPress={()=>{_scrollView.scrollTo({y:400})}}/>
                <ScrollView
                    ref={(scrollView)=>{_scrollView = scrollView}}
                 //contentContainerStyle={{padding:20}}

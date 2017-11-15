@@ -28,5 +28,4 @@
 														       asyncstorage, cameraroll, activityindicator, geolocation, 
 														       set&get from clipboard, share
 				https://facebook.github.io/react-native/docs/navigation.html : navigatie (project: navTest)
-				
-next				https://www.eduonix.com/dashboard/learn-to-build-mobile-apps-with-react-native 33-41 : React Native Todo App
+				https://www.eduonix.com/dashboard/learn-to-build-mobile-apps-with-react-native 33-41 : React Native Todo App

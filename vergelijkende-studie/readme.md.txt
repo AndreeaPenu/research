@@ -9,3 +9,4 @@
 
 11/11 Invision section afwerken: board en freehand gedeelte + de bijhorende demo's maken + pros & cons
 12/11 UXPin : eerste zicht platform, platform demo, pros & cons + Conclusie beide technologieën
+16/11 afwerking Vergelijkende Studie document
